@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diabloget/CLionProjects/GeneticClient/Genetics.cpp
+Genetics.h
+/home/diabloget/CLionProjects/GeneticClient/Genetics.h
+
+/home/diabloget/CLionProjects/GeneticClient/Genetics.h
+vector
+-
+algorithm
+-
+random
+-
+iostream
+-
+iostream
+-
+fstream
+-
+
